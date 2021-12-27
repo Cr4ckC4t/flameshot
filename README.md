@@ -46,7 +46,7 @@
 
 ## Fork README
 
-This fork was used to implement a Color-Invert tool for selected regions. The merge request was published and accepted. 
+This fork was used to implement a Color-Invert tool for selected regions. The [merge request](https://github.com/flameshot-org/flameshot/pull/1849) was published and accepted. 
 
 **Update**: The new tool has now been officially (pre)released as part of [V11.0 Beta](https://github.com/flameshot-org/flameshot/releases/tag/v11.0.rc1).
 
